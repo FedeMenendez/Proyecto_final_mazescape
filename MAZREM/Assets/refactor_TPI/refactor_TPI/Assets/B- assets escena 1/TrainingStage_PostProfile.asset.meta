@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8551a1904ebe1784b8307cc400e78288
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159610
+  packageName: Fighting Game Level - Basic Training Stage
+  packageVersion: 1.0
+  assetPath: Assets/SDF_BasicTrainingStage/Scenes/Stage_BasicTraining/TrainingStage_PostProfile.asset
+  uploadId: 344044
