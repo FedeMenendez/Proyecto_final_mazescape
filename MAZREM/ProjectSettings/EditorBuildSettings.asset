@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/MainMenu.unity
+    guid: 7c314536cb08a524590ed672020d0e60
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/Character Selection.unity
+    guid: e5df1ff5e39acea46a5d2ddfafea752c
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/LABERINTO1.unity
+    guid: fa7972df5fae3354b989e5fc209165c2
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/MyDungeon1.unity
+    guid: 1685768be844097469b221def4a45ae3
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/escena FINAL 1.unity
+    guid: 53355c841bd0f0c46951b9da163573d3
+  - enabled: 1
+    path: Assets/refactor_TPI/refactor_TPI/Assets/Scenes/escena GO.unity
+    guid: 79f8bac4c75da6e43bd8288f7d84106c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d5895cf6c9407c747a689a345d6feeed, type: 2}
+  m_UseUCBPForAssetBundles: 0
